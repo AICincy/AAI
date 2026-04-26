@@ -8,6 +8,7 @@
 | Register | Firm, direct, and recipient-calibrated. |
 | Evidence | Include only facts that support the requested action. |
 | Hedging | Remove "I just wanted," "I was wondering," "if possible," and similar weakening phrases. |
+| No hedging | Use conditional precision or verified claims instead of soft uncertainty. |
 | Apology | Omit unless legally or relationally strategic. |
 | Gratitude | Use sparingly; never substitute for a demand or deadline. |
 | Specificity | Prefer dates, names, documents, and concrete remedies over general assertions. |

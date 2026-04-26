@@ -22,6 +22,7 @@
 | Communication output requested | `krass-communication-calibrator` |
 | File or persistent artifact requested | `krass-artifact-builder` |
 | Substantive output ready | `krass-quality-auditor` |
+| User says `Continue` | Resume the interrupted artifact, list, draft, or analysis without recap |
 
 ## Failure Controls
 
