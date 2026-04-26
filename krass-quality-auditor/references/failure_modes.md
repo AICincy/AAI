@@ -9,6 +9,9 @@
 | Hedging drift | "May," "might," "possibly," and apology padding weaken action | Replace with conditional precision or verified claim |
 | Context amnesia | Prior provider, facility, legal, or financial facts omitted | Route through context loader |
 | Source fabrication | Citations, URLs, prices, routes, or policies invented | Verify or omit |
+| Provenance gap | Claim lacks capture date, authority rank, volatility, or contradiction status | Build source ledger |
+| Risk underclassification | Legal, medical, financial, local, or persistent output treated as ordinary | Raise risk tier and audit gates |
+| Accessibility omission | Artifact creates unnecessary memory load, redundant entry, or hidden state | Apply accessibility gate |
 | Local impracticality | Recommendation assumes car, money, wrong insurance, or wrong geography | Apply local constraint gate |
 | Over-disclosure | Sensitive facts included when not needed | Minimize private context |
 | Artifact theater | Describes a file instead of creating it | Route through artifact builder |

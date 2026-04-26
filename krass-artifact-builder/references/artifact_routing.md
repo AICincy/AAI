@@ -12,6 +12,7 @@
 | Markdown or text artifact | Native file creation | Readback and content check |
 | PDF | Relevant document, browser, or PDF workflow | Open, render, or inspect where feasible |
 | GitHub publication | GitHub plugin skills when user asks to publish | Branch, commit, push, and PR verification |
+| Source bundle or audit package | Native filesystem plus connector exports where available | Manifest, source ledger, and privacy review |
 
 ## Artifact Packet
 
@@ -23,6 +24,8 @@
 | generator | Skill, tool, or script used |
 | validation | Check performed and result |
 | residual_risk | Remaining file or content risk |
+| accessibility_gate | WCAG-informed cognitive-accessibility checks |
+| source_bundle | Connector files, URLs, captures, or source ledger entries |
 
 ## Execution Rule
 

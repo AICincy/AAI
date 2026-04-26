@@ -12,6 +12,7 @@
 | Transit and geography | Deer Park, Hamilton County, Metro, MetroNow, Metro Access | Load before local recommendations |
 | Prior work | Drafts, artifacts, decisions, corrections, preferences | Load before continuing or revising |
 | Facility and provider relationships | Approved, excluded, failed, pending, or preferred entities | Load before naming options |
+| Source history | Prior URLs, captures, provider directories, transit pages, legal sources | Load before reusing or contradicting a claim |
 
 ## State Labels
 
@@ -22,6 +23,8 @@
 | Stale | Previously known but likely changed |
 | Missing | Needed for safe output and not discoverable |
 | Sensitive | Should not be exposed unless required |
+| Superseded | Replaced by newer source, decision, or correction |
+| Disputed | Conflicting facts or contested interpretation |
 
 ## Context Packet
 
@@ -31,5 +34,7 @@ inferred_facts: []
 stale_facts: []
 missing_facts: []
 sensitive_facts: []
+superseded_facts: []
+disputed_facts: []
 impact_on_output: []
 ```
