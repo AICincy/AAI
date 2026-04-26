@@ -1,0 +1,4 @@
+interface:
+  display_name: "Krass Communication Calibrator"
+  short_description: "Calibrates Krass communication."
+  default_prompt: "Draft or revise communications using Krass's recipient posture, direct register, and non-hedged senior-level style while preserving factual and procedural precision."

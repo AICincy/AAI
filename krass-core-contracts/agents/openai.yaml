@@ -1,0 +1,4 @@
+interface:
+  display_name: "Krass Core Contracts"
+  short_description: "Shared contracts for Krass workflows."
+  default_prompt: "Use the Krass core contracts to load the shared cognitive interface, handoff packet, mode routing, register, and confidence-summary requirements before specialized personal workflow execution."

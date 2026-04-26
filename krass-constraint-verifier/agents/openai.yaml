@@ -1,0 +1,4 @@
+interface:
+  display_name: "Krass Constraint Verifier"
+  short_description: "Verifies facts and constraints."
+  default_prompt: "Verify volatile facts and practical constraints before recommendations, especially citations, cost, transit, insurance, geography, and time-sensitive local data."

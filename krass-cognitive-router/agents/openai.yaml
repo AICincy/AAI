@@ -1,0 +1,4 @@
+interface:
+  display_name: "Krass Cognitive Router"
+  short_description: "Routes Krass workflows by mode."
+  default_prompt: "Classify the request mode, preserve one primary objective, apply the Krass cognitive-interface contract, and produce a compact task packet before downstream execution."

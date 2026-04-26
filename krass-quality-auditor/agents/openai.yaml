@@ -1,0 +1,4 @@
+interface:
+  display_name: "Krass Quality Auditor"
+  short_description: "Audits deliverables before output."
+  default_prompt: "Pressure-test substantive deliverables against Krass's cognitive-interface contract, factual support, reversibility, omissions, failure modes, and confidence-summary requirements."

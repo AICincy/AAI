@@ -1,0 +1,4 @@
+interface:
+  display_name: "Krass Artifact Builder"
+  short_description: "Routes requests to artifact skills."
+  default_prompt: "Convert deliverable requests into concrete artifacts and route to the correct Codex skill or plugin for markdown, DOCX, XLSX, PPTX, HTML, React, PDF, or other files."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Krass Context Loader"
+  short_description: "Loads case context before output."
+  default_prompt: "Load relevant prior medical, legal, provider, financial, transit, facility, and case facts before producing case-specific output for Krass."
